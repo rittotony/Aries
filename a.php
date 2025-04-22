@@ -1,6 +1,6 @@
 <?php
 
 echo "This 'a' named page.";
-echo "New feature added";
+echo "New feature add";
 
 ?>
